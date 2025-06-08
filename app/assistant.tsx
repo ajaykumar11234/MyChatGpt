@@ -24,9 +24,9 @@ export const Assistant = () => {
             <Breadcrumb>
               <BreadcrumbList>
                 <BreadcrumbItem className="hidden md:block">
-                  {/* <BreadcrumbLink href="#"> */}
-                    Work on Your ChatGpt
-                  {/* </BreadcrumbLink> */}
+                  <BreadcrumbLink href="#">
+                   Work on your AI assistant
+                  </BreadcrumbLink>
                 </BreadcrumbItem>
                 <BreadcrumbSeparator className="hidden md:block" />
                 <BreadcrumbItem>
